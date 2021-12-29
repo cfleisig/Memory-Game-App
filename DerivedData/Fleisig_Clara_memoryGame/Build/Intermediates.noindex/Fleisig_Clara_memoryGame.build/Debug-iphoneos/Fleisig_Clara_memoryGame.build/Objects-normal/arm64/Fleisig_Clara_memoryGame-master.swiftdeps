@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "d98e2186081089694f9fc9735a252c18"
+build_time: [1512269608, 729872000]
+inputs:
+  "/Users/ClaraFleisig/Desktop/Fleisig_Clara_memoryGame/Fleisig_Clara_memoryGame/ViewController.swift": [1512266552, 0]
+  "/Users/ClaraFleisig/Desktop/Fleisig_Clara_memoryGame/Fleisig_Clara_memoryGame/AppDelegate.swift": [1511399312, 0]

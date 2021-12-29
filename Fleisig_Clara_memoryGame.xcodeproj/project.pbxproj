@@ -14,6 +14,7 @@
 		6AB762081FC6571100B2E168 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AB762061FC6571100B2E168 /* LaunchScreen.storyboard */; };
 		6AB762131FC6571100B2E168 /* Fleisig_Clara_memoryGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB762121FC6571100B2E168 /* Fleisig_Clara_memoryGameTests.swift */; };
 		6AB7621E1FC6571100B2E168 /* Fleisig_Clara_memoryGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB7621D1FC6571100B2E168 /* Fleisig_Clara_memoryGameUITests.swift */; };
+		6AF651291FD4DCB70019123B /* startScreenViewControlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF651281FD4DCB70019123B /* startScreenViewControlerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6AB762191FC6571100B2E168 /* Fleisig_Clara_memoryGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Fleisig_Clara_memoryGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AB7621D1FC6571100B2E168 /* Fleisig_Clara_memoryGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fleisig_Clara_memoryGameUITests.swift; sourceTree = "<group>"; };
 		6AB7621F1FC6571100B2E168 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AF651281FD4DCB70019123B /* startScreenViewControlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = startScreenViewControlerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				6AB761FD1FC6571000B2E168 /* AppDelegate.swift */,
 				6AB761FF1FC6571000B2E168 /* ViewController.swift */,
+				6AF651281FD4DCB70019123B /* startScreenViewControlerViewController.swift */,
 				6AB762011FC6571100B2E168 /* Main.storyboard */,
 				6AB762041FC6571100B2E168 /* Assets.xcassets */,
 				6AB762061FC6571100B2E168 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AB762001FC6571000B2E168 /* ViewController.swift in Sources */,
+				6AF651291FD4DCB70019123B /* startScreenViewControlerViewController.swift in Sources */,
 				6AB761FE1FC6571000B2E168 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -347,6 +351,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 6K77VWNM75;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -404,6 +409,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 6K77VWNM75;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
